@@ -2,7 +2,7 @@
 My name is Dalmas, and I am a Moringa Student trained Data Scientist interested in all things Python and Machine learning.
 - 🔭 I’m currently working on a data analysis project exploring [topics,e.g customer chain prediction /COVID-19 trends]
 - 🌱 I’m currently learning Python (Pandas,Numpy,Scikit-learn and Sql.
-- 👯 I’m looking to collaborate on data science and machine learning projects especially around.[NLP,Computer Vision,predictive analytics]
+- 👯 I’m looking to collaborate on data science and machine learning projects especially around.[NLP,Computer Vision,predictive]
 - 💬 Ask me about data visualization,statistics and ML.
 - 📫 How to reach me: dalmasotieno2024@gmail.com
 - ⚡ Fun fact: I love turning messy dataset into clean insights.
